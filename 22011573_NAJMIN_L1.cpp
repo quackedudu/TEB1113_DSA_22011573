@@ -3,8 +3,6 @@
 Student #1 data :
 ID : 22011573
 Name : Najmin Faiz
-Phone Number : 01130375157
-Email : najmin_22011573@utp.edu.my
 */
 
 #include <iostream>
