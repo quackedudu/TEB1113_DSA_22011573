@@ -1,9 +1,10 @@
 Name : NAJMIN FAIZ BIN SAIFUL IZHAM<br>
 ID : 22011573
 
-This repository contains codes and exercises related to TEB1113 Data Structure & Algorithms for Bachelors of Computer Science in Universiti Teknologi Petronas.
+This repository contains source code and exercises for the course TEB1113: Data Structures and Algorithms, offered as part of the Bachelor of Computer Science program at Universiti Teknologi PETRONAS (UTP).
 
 | Lab Sessions  | Contents |
 | ------------- | ----------------- |
-| Lab 1 | Simple Algorithm |
-| Lab 2 | - Easy <br> - Medium<br> - Hard |
+| Lab 1<br>May 28th | Simple Algorithm |
+| Lab 2<br>June 4th | Algorithm Challenges<br> - Easy<br> - Medium<br> - Hard |
+| Lab 3<br>June 11st | Linked List<br> - Singly<br> - Doubly |
