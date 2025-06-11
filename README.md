@@ -3,6 +3,7 @@ ID : 22011573
 
 This repository contains source code and exercises for the course TEB1113: Data Structures and Algorithms, offered as part of the Bachelor of Computer Science program at Universiti Teknologi PETRONAS (UTP).
 
+Table of Contents :
 | Lab Sessions  | Contents |
 | ------------- | ----------------- |
 | Lab 1<br>May 28th | Simple Algorithm |
