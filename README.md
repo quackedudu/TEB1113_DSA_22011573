@@ -10,3 +10,4 @@ Table of Contents :
 | Lab 2<br>June 4th | Algorithm Challenges<br> - Easy<br> - Medium<br> - Hard |
 | Lab 3<br>June 11th | Linked List<br> - Singly<br> - Doubly |
 | Lab 4<br>June 18th | Circular Linked List<br> - Singly Circular<br> - Doubly Circular |
+| Lab 5<br>June 25th | Stacks |
