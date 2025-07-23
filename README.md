@@ -14,3 +14,4 @@ Table of Contents :
 | Lab 6<br>July 2nd | Queue<br> - Normal Queue<br> - Circular Queue |
 | Lab 7<br>July 9th | Trees<br> - With User Input<br> - Without User Input |
 | Lab 8<br>July 16th | Trees<br> - Binary Search Tree<br> - Min/Max Heap |
+| Lab 9<br>July 23rd | Graphs<br> - Breadth-First Search<br> - Depth-First Search |
